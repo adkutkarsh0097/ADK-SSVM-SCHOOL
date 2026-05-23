@@ -1,0 +1,6 @@
+{
+  "name": "ADK SSVM School",
+  "description": "ADK SCHOOL - Saraswati Shishu Vidya Mandir. Premium school website combining traditional value education (संस्कार) with modern digital learning, CBSE curriculum, nursery to class 10.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
